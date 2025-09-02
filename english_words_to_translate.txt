@@ -1,0 +1,1000 @@
+﻿- a linked contract is not at finished status
+- a linked contract is still in progress
+- a linked expense line is not invoiced
+- a linked purchase order is not totally invoiced
+- a linked purchase order is not totally received
+- a linked sale order is not totally invoiced
+- a linked timesheet line is not invoiced
+A - Register code
+A budget date is missing
+A cancel reason must be selected
+A deadline is required
+A lost reason must be selected
+A message template is needed to send a mail
+A supplier partner must be selected
+A tax line is missing
+ABC analysis
+ABC Analysis line
+ABC Analysis lines
+ABC class
+ABC classes
+ABS portal
+Absent
+Accept
+Accept Order
+Acceptance
+Acceptance code per recipient line
+Acceptance required
+Accepted
+Accepted Bank Details Identifiers
+Accepted Credit
+Accepted LCR
+Accepted quantity
+Access
+Access payment session
+Access to model fields
+Access to parent sale order
+Access token
+Account
+Account balance
+Account blocked
+Account calculation configuration
+Account clearance
+Account clearance date
+Account clearance filters
+Account clearance journal
+Account clearance operations
+Account code
+Account code filter
+Account config
+Account Configuration
+Account configurations
+Account customer
+Account details
+Account equivalence
+Account equivalences
+Account filters
+Account information
+Account Invoice Summary
+Account List
+Account management
+Account management filters
+Account management list
+Account managements
+Account manually blocked
+Account model
+Account models
+Account move
+Account moves
+Account name
+Account Number
+Account of purchase fixed assets
+Account owner
+Account selection to carrier
+Account to replace
+Account to set
+Account type
+Account types
+Accounted move
+Accounted moves
+Accounted Revenue
+Accounting
+Accounting account
+Accounting auto
+Accounting batch
+Accounting batch filters
+Accounting batches
+Accounting configuration
+Accounting configurations imported
+Accounting configurations initialization
+Accounting configurations template
+Accounting configurations templates
+Accounting cut-off
+Accounting cut-off configuration
+Accounting Dashboard
+Accounting Dashboard with invoice terms
+Accounting date
+Accounting Daybook
+Accounting details
+Accounting Details with invoice terms
+Accounting entries status
+Accounting Export
+Accounting Exports
+Accounting family
+Accounting Family Dashboard
+Accounting information
+Accounting method for payment move
+Accounting move trigger select
+Accounting Reconcile
+Accounting report
+Accounting report and rules
+Accounting report config line
+Accounting report config line column
+Accounting report filters
+Accounting report invoice filters
+Accounting report move line
+Accounting report move lines
+Accounting reports
+Accounting Settings
+Accounting situation
+Accounting situations
+Accounting Unreconcile
+Accounting value
+Accounting with invoice terms
+Accounts
+Accounts configuration
+Accounts Configurations
+Accounts tags
+Acquired
+Acquisition Date
+Acquisitions
+Action
+Action distribution sequence
+Action distribution template
+Action plan
+Action proposed
+Actions
+Activate
+Activate bar code generation for fixed asset
+Activate bar code generation for products
+Activate bar code generation for stock location
+Activate bar code generation for tracking number
+Activate changes shortcut for
+Activate contract
+Activate favorites management
+Activate inbox access
+Activate invoicing on projects
+Activate multi currency
+Activate partial invoicing for incoming moves
+Activate partial invoicing for outgoing moves
+Activate partner delegations
+Activate passed for payment
+Activate past versions recovery
+Activate recurrence planning
+Activate sending email
+Activate the instance information shortcut
+Activated By
+Activation
+Activation Cost
+Activation date
+Active
+Active agency
+Active bank details
+Active company
+Active employee
+Active employees
+Active level
+Active menus
+Active project
+Active sprint
+Active Team
+Active trading name
+Active UMR
+Active users
+Active Version
+Active version expected amounts line
+Activities
+Activity
+Actualize
+Add
+Add a guest
+Add a line
+Add a new check list item
+Add a new item
+Add a new sale order line
+Add a pack
+Add a period
+Add all the move
+Add an advance
+Add concerned move lines
+Add Guests
+Add Line from Configurator
+Add lines
+Add multiple lines
+Add on catalog
+Add optional control points
+Add Pack
+Add selected lines
+Add status
+Add to cart
+Add to expense
+Added by
+Additional benefit
+Additional benefit lines
+Additional benefit management
+Additional information
+Additional leads
+Additional products
+Additional Properties
+Address
+Address certified by QAS engine
+Address created
+Address details
+Address filters
+Address found
+Address list
+Address position
+Address precisions
+Address template
+Address Template Line
+Address template lines
+Address templates
+Address type
+Address unknown
+Addresses
+Addresses validation
+Adjust fiscal year
+Adjust History
+Adjust period
+Adjusting
+Adjusting move
+Administration
+Advance
+Advance export budget
+Advance export budget level
+Advance export budget line
+Advance export global budget
+Advance Fields Export
+Advance import
+Advance management
+Advance move line
+Advance Payment
+Advance payment amount needed
+Advance payment credit note
+Advance Payment Imputation
+Advance payment invoice
+Advance payment invoices
+Advance payment needed
+Advance payment product
+Advance payment total
+Advance Payments
+Advanced
+Advanced export
+Advanced export line
+Advanced export lines
+Advanced exports
+Advanced import
+Advanced import is not validated
+Advanced imports
+Advanced monitoring
+Advanced monitoring address
+Advanced print templates
+Advanced startup monitoring range
+Advanced synchronization
+Advancement
+After n repetitions
+After sale service sale order follow up
+Afternoon
+Aged Balance
+Agencies
+Agencies management
+Agency
+Alert
+Alert calendar
+All
+All Actions
+All allocation lines
+All applications
+All articles must belong to the same partner
+All Child MO
+All clients
+All companies
+All connector mappers
+All Countries
+All Current Manufacturing Orders
+All day
+All Employees
+All Enterprises
+All events
+All extra hours
+All Individuals
+All Mailing lists
+All my calendars
+All my invoices
+All open tasks
+All open ticket
+All opportunities
+All past events
+All permissions
+All products has been consumed
+All Prospects
+All prospects and clients
+All reached
+All SLA
+All sprints
+All Suppliers
+All tasks
+All teams
+All ticket types
+All tickets
+All timesheets
+All trainings
+All upcoming events
+All Upcoming Manufacturing Orders
+All users
+All Views
+Allocate
+Allocate all
+Allocate per partner
+Allocated
+Allocated amount
+Allocated Qty
+Allocated stock
+Allocated time
+Allocation line
+Allocation lines
+Allocation period
+Allocation periods
+Allocation Year
+Allocation years
+Allocations of costs
+Allow allocated initialization
+Allow complete manually sale order
+Allow creation
+Allow deletion
+Allow download
+Allow edition of date
+Allow expense creation
+Allow finish manually purchase order
+Allow generation with status new on mass entry
+Allow Injection
+Allow kilometric expenses
+Allow line creation of expense details
+Allow line creation of timesheet details
+Allow manual creation of expense
+Allow manual creation of timesheet
+Allow multi invoice terms
+Allow negative value for leaves
+Allow negative values for employee leaves
+Allow new files to be uploaded
+Allow notifications to be sent by email
+Allow partial reconcile
+Allow payments greater than due amount
+Allow pending order modification
+Allow renaming
+Allow Subscriptions for Sale orders
+Allow supplier to create products
+Allow the editing of the targets
+Allow timetable invoicing
+Allow to force purchases quantities
+Allow to force sales quantities
+Allow to personalize bill of material
+Allow to personalize production process
+Allow updates via editor
+Allowed tax gap
+Alone meal
+Already accounted
+Already allocated
+Already Depreciated Amount
+already exists for this supplier
+Already printed
+Already reconciled
+Also export already exported payroll preparations
+Alternative barcode
+Alternative barcode type
+Alternative barcode types
+Alternative barcodes
+Alternative Bill of materials
+Always
+Amendment
+Amendment Date
+Amendment management
+Amendment status
+Amendment type
+Amendment types
+Amendments
+Amount
+Amount autorized
+Amount charged
+Amount due
+Amount excluding taxes
+Amount exported for direct debit
+Amount for each line
+Amount in currency
+Amount in move currency
+Amount limit
+Amount not invoiced
+Amount paid
+Amount paid in currency
+Amount Rejected
+Amount remaining
+Amount remaining before cashing
+Amount remaining in currency
+Amount Remaining to allocate
+Amount remaining to order
+Amount remaining to reconcile
+Amount remaining to use
+Amount Tax
+Amount to be spread over the timetable
+Amount to invoice
+Amount to reimburse
+Amount value of a bank order line is not valid
+Amount value of the bank order is not valid
+Amounts
+Analysis
+Analysis costs
+Analysis Method
+Analysis method line
+Analysis method lines
+Analysis methods
+Analytic
+Analytic account
+Analytic account code
+Analytic Account details
+Analytic Accounting
+Analytic accounting account
+Analytic Accounts
+Analytic axis
+Analytic Axis By company
+Analytic Axis related
+Analytic balance
+Analytic distribution
+Analytic distribution authorized
+Analytic distribution line
+Analytic distribution lines
+Analytic distribution required on invoice lines
+Analytic distribution required on move lines
+Analytic distribution required on project
+Analytic distribution required on sale order line
+Analytic distribution template
+Analytic distribution template filters
+Analytic distribution templates
+Analytic distribution type
+Analytic general ledger
+Analytic Grouping
+Analytic Grouping Value
+Analytic grouping values
+Analytic Groupings
+Analytic Journal
+Analytic journal filters
+Analytic Journal Type
+Analytic journal types
+Analytic journals
+Analytic journals types
+Analytic Level
+Analytic move line
+Analytic move line filters
+Analytic move lines
+Analytic move lines to reverse
+Analytic order
+Analytic Regrouping Values
+Analytic report
+Analytic review
+Analytic Rule
+Analytic rules
+Analytic Structure
+Analytic Tree
+Analytics
+Analytics move lines origin
+Analyzing
+AND
+and the year
+Announcement
+Annual closure
+Annual expenses report
+Annual gross salary
+Annual processing
+Annual report
+Annual schedule
+Anomalies
+Anomalies generated
+Anomaly
+Anonymization result
+Answer
+Answer comment
+Answer required
+Answer type
+Answer types
+Answer value
+Answer values
+Answered
+Answered by
+Answered on
+AOS view
+API Sirene configuration
+App
+App account
+App bank payment
+App base
+App budget
+App business project
+App Business Support
+App configuration
+App contract
+App Crm
+App customized fields
+App employee
+App expense
+App GDPR
+App helpdesk
+App intervention
+App invoice
+App json
+App Leave
+App manufacturing
+App marketing
+App mobile
+App mobile settings
+App Portal
+App production
+App project
+App purchase
+App quality
+App recruitment
+App sale
+App stock
+App supplier portal
+App supplychain
+App timesheet
+Applicable
+Applicable dates
+Application
+Application begin date
+Application condition
+Application Config
+Application end date
+Application Information
+Application start Date
+Application type
+Applications
+Applied job
+Apply
+Apply changes to this event only
+Apply Cut off dates
+Apply modifications
+Apply modifications for all
+Apply modifications to next tasks
+Apply on
+Apply pricings
+Apply to all
+Appraisal
+Appraisal cancelled
+Appraisal draft
+Appraisal filters
+Appraisal realized
+Appraisal sent
+Appraisal template
+Appraisal templates
+Appraisal type
+Appraisal types
+Appraisals
+Appreciation
+Approval
+Apps management
+April
+Archive
+Archive data
+archiveBtn
+Archived
+Area name
+Arithmetic total
+Arrival product qty
+Arrivals
+Arrivals History
+Arriving city
+Article
+Article dimension
+Article volume
+Artmin
+As soon as possible
+Ascending
+Asset
+Asset disposal reason
+Asset disposal reasons
+Assets cession
+Assets management
+Assign to
+Assign to customer
+Assign to me
+Assign to supplier
+Assignable Users
+Assigned amount
+Assigned to
+Assigned to user
+AssignedTo
+Assigning to the customer
+Assigning to the provider
+Assignment
+Assignment or pledge outside Dailly agreement
+Associated account not configured
+Associated estimated delivery mrp line
+Associated Fixed Assets
+Associated Fixed Assets Set
+Associated MoveLine
+At least one sale order line must be selected
+At specific date
+At the date
+At the latest
+ATI
+Attach
+Attach the Annex to the invoice
+Attach to
+Attach to model
+Attached file
+Attached files
+Attached partners
+Attachment
+Attachments
+Attachments must be in zip format
+Attendee
+Attendees
+Attributes
+Attrs
+August
+Authorization
+Authorization details
+Authorizations
+Authorize auto reconcile
+Authorize auto reconcile on invoice
+Authorize auto reconcile on payment
+Authorized Analytic Accounts
+Authorized functional origin
+Authorized groups
+Authorized roles
+Authorized roles for closure
+Authorized roles for temporary closure
+Authorized users
+Auto
+Auto accounting
+Auto allocate during an availability request
+Auto allocate stock on other stock moves
+Auto allocate stock on receipt
+Auto enable version on renew
+Auto fill delivery real quantity
+Auto fill receipt real quantity
+Auto generate customer request
+Auto import
+Auto incrementation disabled
+Auto incrementation enabled
+Auto move lettering
+Auto move lettering configuration
+Auto reconcile
+Auto request qty for manuf orders
+Auto request reserved qty
+Automatic
+Automatic accounting
+Automatic accounting of reversions
+Automatic application of accounting date
+Automatic budget computation
+Automatic incrementation
+Automatic invoicing
+Automatic mail
+Automatic mail by completing quality control
+Automatic partner account creation mode
+Automatic pointing
+Automatic Project
+Automatic reconcile
+Automatic reverse
+Automatically generated
+Automatically plan after fusion
+Availability
+Availability from
+Availability Request
+Availability requests
+Available
+Available amount
+Available amount with simulated
+Available amount with simulated moves
+Available days
+Available payment vouchers for deposit slip
+Available qty
+Available qty for product
+Available status
+Available stock
+Available Stock of Lunch Vouchers
+Average
+Average margin rate
+Average margin rate per customer
+Average markup
+Average markup per customer
+Average Price
+Awaiting
+Awaiting invoice
+Awaiting invoices
+Awaiting payment
+Awaiting PFP
+Awaiting signature
+awaitingPfpMenuTitle
+Axis
+AZTEC
+Back
+Back to confirmed order
+Back to draft
+Back to provision
+Back to validated order
+Backlog sprint
+Backorder
+Backorder Id
+Backorder Stock Move
+Backup
+Backup Created
+Backup File
+Backup On
+Backup project data to project history
+Backup Restore Error
+Backup Restored
+Bad import file
+Bad stock move type
+Balance
+Balance btn
+Balance by bank details
+Balance computations on the following accounts
+Balance due recoverable
+Balance invoice
+Balance updated date
+Balanced
+Bank
+Bank account
+Bank accounting account
+Bank accounts
+Bank Balance
+Bank card
+Bank cards
+Bank Code
+Bank deposit move generated
+Bank detail filters
+Bank details
+Bank Details list
+Bank details not validated
+Bank details specific note
+Bank details tree
+Bank Identifier Code
+Bank Identifier Codes
+Bank Name
+Bank Order
+Bank order amount
+Bank order confirmation
+Bank order currency
+Bank order Date
+Bank Order Details
+Bank order due Date
+Bank order export folder path
+Bank order file format
+Bank order file formats
+Bank order generation
+Bank Order line
+Bank Order lines
+Bank order realization
+Bank Order Status
+Bank Orders
+Bank Orders economic reason
+Bank Orders economic reasons
+Bank Orders file format
+Bank Orders file formats
+Bank payment batch
+Bank payment config
+Bank payment configuration
+Bank payment configurations
+Bank reconciled amount
+Bank Reconciliation
+Bank reconciliation filters
+Bank reconciliation Line
+Bank reconciliation lines
+Bank reconciliation statement
+Bank reconciliation statement template
+Bank Reconciliations
+Bank statement
+Bank Statement detail
+Bank statement details
+Bank Statement line
+Bank Statement line print wizard
+Bank statement lines
+Bank statement lines template
+Bank statement queries
+Bank statement query
+Bank statement rule
+Bank statement rules
+Bank Statements
+Bank Statements file format
+Bank statements file formats
+Bank to Bank Transfers
+Bar
+Barcode
+Barcode format not supported
+Barcode Type
+Barcode type configuration
+Barcode type configurations
+Barter
+Base
+Base amount per employee
+Base Batch
+Base batch filters
+Base batches
+Based on
+Basic information
+Basic overview
+Batch
+Batch code
+Batch execution is now finished
+Batch step
+Batch type
+Batches
+Batches dashboard
+Batchs
+BBAN
+BBan Key
+Bean is not an instance of
+Before start date
+Belong to a payment schedule
+Benefits and expenses
+Best
+Best case
+Best Open Deals
+BIC
+BigDecimal
+Bill of exchange bank orders sequences
+Bill of exchange batch
+Bill of exchange blocking
+Bill of exchange blocking done by
+Bill of exchange blocking reason
+Bill of exchange blocking until
+Bill of exchange configuration
+Bill of exchange data type
+Bill of exchange generation
+Bill of exchange journal
+Bill of exchange receivable account
+Bill of exchange type
+Bill of exchanges
+Bill of material
+Bill of material line
+Bill of material line list
+Bill of materials
+Bill of materials import
+Bill of materials import line
+Bill of materials import line tree
+Bill of materials import lines
+Bill of materials import source
+Bill of materials import sources
+Bill of materials imports
+Billing contract
+BillOfMaterial
+Bills of material
+Bills of material filters
+Bills of materials
+Bills of materials generated
+Bi-monthly
+Binding
+Binding file
+Birt
+Birt printing wizard
+BIRT printings
+Birt template
+BIRT template file
+Birt Template parameter
+Birt Template parameters
+BIRT templates
+Birth date
+Block customer with late payment issues
+Block customer with late payments
+Block customers with late payments
+Block deallocation on availability request
+Block delivery
+Block expense tax modification
+Block order creation
+Block production
+Block project planning time generation
+Block until
+Blocked
+Blocked by
+Blocked invoices
+Blocked until
+Blocking
+Blocking comment for Bills of exchange
+Blocking comment for Debt recovery
+Blocking comment for delivery
+Blocking comment for Direct debit
+Blocking comment for production
+Blocking delivery reason
+Blocking delivery until
+Blocking done by
+Blocking follow-up List
+Blocking production reason
+Blocking production until
+Blocking reason
+Blocking reasons
+Blocking Type
+Blockings
+blue
+Bold
+BOM
+Bom child tree list
+BOM currently has no status
+BOM is already on draft status
+Bom level
+BoM line
+Bom tree list
+Bonus coefficient
+Bonus type
+Bonuses
+Book resource
+Booking
+BookingDate
+boolean
+BOR
+Both
+Branch
+Brand
+Budget
+Budget amount available
+Budget dates
+Budget Distribution
+Budget distribution generated
+Budget distribution imputed
+Budget distribution role
+Budget distributions
+Budget exceed alert for orders
+Budget filters
+Budget full name
+Budget Generator
+Budget id
+Budget item
+Budget key
+Budget level
+Budget level export
+Budget Levels
+Budget line
+Budget Lines
+Budget management
+Budget manager
+Budget model
+Budget scenario
+Budget Scenario Line
+Budget scenario line list
+Budget Scenario Lines
+Budget Scenario Value
+Budget Scenario Variable
+Budget scenario variables
+Budget structure
+Budget structures
+Budget templates
+Budget type select
+Budget version
+Budget versions
+Budgeted time
+Budgets
+Budgets related
+Building
+Building number
+Building quantity
+Business
+Business configuration
+Business Project
+Business project batch
+Business project batch filters
+Business project batches
+Business project configurations
+Business project tasks
+Business projects
+Business sectors
+Busy
+Buy
+Buy and produce
+Buyer
+Buyers
+Buying currency
+Buying date
+Buying price
+By equipment
+By equipment family
+By invoice term
+By partner
+Cadre
+Calculate
+Calculate all BOM levels
+Calculate the outrun of the year
+Calculated
+Calculated fields on configurator
+Calculation
+Calculation date
+Calculation End Date
+Calculation ended
+Calculation in progress
+Calculation method
+Calculation number
+Calculation of totals
+Calculation quantity
+Calculation Start Date
+Calculation started
+Calculation type
+Calendar
+Calendar configuration
