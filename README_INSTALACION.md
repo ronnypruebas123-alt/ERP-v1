@@ -100,9 +100,11 @@ git clone https://github.com/ronnypruebas123-alt/ERP-v1.git
 cd ERP-v1
 ```
 
-### 2. Inicializar Submódulos
+### 2. Verificar la Estructura del Proyecto
 ```bash
-git submodule update --init --recursive
+# El proyecto ya incluye todos los módulos necesarios
+# No es necesario inicializar submódulos
+ls modules/axelor-open-suite/
 ```
 
 ### 3. Verificar Configuración
@@ -114,6 +116,10 @@ java -version
 # Verificar que PostgreSQL esté corriendo
 # En Windows: Verificar servicios > PostgreSQL
 # En Linux: sudo systemctl status postgresql
+
+# Verificar que todos los módulos estén presentes
+ls modules/axelor-open-suite/
+# Debe mostrar todos los módulos (axelor-base, axelor-account, etc.)
 ```
 
 ## ⚙️ Configuración del Proyecto
@@ -205,7 +211,7 @@ export GRADLE_OPTS="-Xmx4g -XX:MaxPermSize=512m"
 - [ ] Base de datos `axelor_open_suite` creada
 - [ ] Contraseña configurada en `axelor-config.properties`
 - [ ] Repositorio clonado
-- [ ] Submódulos inicializados
+- [ ] Estructura del proyecto verificada
 - [ ] Proyecto compilado con `./gradlew build`
 - [ ] Aplicación ejecutada con `./gradlew run`
 - [ ] Acceso exitoso a http://localhost:8080
@@ -217,6 +223,7 @@ export GRADLE_OPTS="-Xmx4g -XX:MaxPermSize=512m"
 3. **Comando de arranque:** Usar `./gradlew run` (NO `./gradlew bootRun`)
 4. **Base de datos limpia:** El sistema inicia sin datos de demostración
 5. **Configuración Perú:** Timezone y idioma ya configurados para Perú
+6. **Proyecto independiente:** No requiere submódulos externos, todos los módulos están incluidos
 
 ## 📞 Soporte
 
